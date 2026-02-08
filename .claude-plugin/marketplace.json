@@ -1,0 +1,14 @@
+{
+  "name": "job-search-plugin",
+  "owner": {
+    "name": "Gourav"
+  },
+  "plugins": [
+    {
+      "name": "job-search",
+      "source": ".",
+      "description": "Full-lifecycle job search co-pilot with long-term memory.",
+      "version": "1.0.0"
+    }
+  ]
+}
