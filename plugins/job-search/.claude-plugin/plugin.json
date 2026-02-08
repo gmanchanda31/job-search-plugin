@@ -1,0 +1,8 @@
+{
+  "name": "job-search",
+  "version": "1.0.0",
+  "description": "Full-lifecycle job search co-pilot with long-term memory. Captures preferences, finds matching roles, researches companies, tailors resumes and cover letters, preps for interviews, negotiates offers, and tracks your entire pipeline — all with persistent memory across sessions.",
+  "author": {
+    "name": "Gourav"
+  }
+}

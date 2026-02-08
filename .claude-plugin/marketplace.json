@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "job-search",
-      "source": ".",
+      "source": "./plugins/job-search",
       "description": "Full-lifecycle job search co-pilot with long-term memory.",
       "version": "1.0.0"
     }
